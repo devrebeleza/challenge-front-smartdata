@@ -1,6 +1,7 @@
-## Prueba técnica Front-End ReactJS
+# Prueba técnica Front-End ReactJS
 
 -> Biblioteca de videos, la cual accede a la API de Youtube para recuperar videos.
+
 -> Tiempo de desarrollo: 6hrs
 
 # Getting Started with Create React App
