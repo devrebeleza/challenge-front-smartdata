@@ -4,7 +4,7 @@
 
 -> Tiempo de desarrollo: 6hrs
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -19,6 +19,7 @@ Abrir [http://localhost:3000](http://localhost:3000)
 ## Librerías utilizadas
 
 -> axios - Para las peticiones HTTP (sólo utilizo GET) -> https://axios-http.com/
+
 -> bootstrap v5.1.3 junto a react-bootstrap v2.1.2 -> https://react-bootstrap.netlify.app/
 
 ## API to USE
