@@ -1,0 +1,8 @@
+
+get https://www.googleapis.com/youtube/v3/search
+    ?key=AIzaSyAAhJYohR3Xj5f_Bofwcf0i39w-V3coOtM
+    &part=snippet
+    &fields=nextPageToken,prevPageToken,items(id,snippet)
+    &order=date
+    &maxResults=16
+    &q=soda stereo
